@@ -1,0 +1,197 @@
+/*font-family: 'Bokor', cursive;
+font-family: 'Moul', cursive;
+font-family: 'Chenla', cursive;
+font-family: 'Freehand', cursive 
+font-family: 'Battambang', cursive;
+*/
+        body{
+            background-color: gray;
+        }
+        .bg-light {
+            background-color: #ffffff !important;
+        }
+        #header{
+            margin-top: 0px;
+        }
+        .tab-space1>div {
+             padding: 0 1px !important; 
+        }
+        .img-fluid {
+            margin-bottom: 20px;
+        }
+        .tab-space1 {
+            margin-left: -1px !important;
+            margin-right: -1px !important;
+        }
+        p.title-medium-light a {
+            font-family:'Moul', cursive !important; 
+            font-size: 16px !important;
+            position: absolute !important;
+        }
+        .mask-content-sm{
+            position: absolute;
+        }
+         .img-overlay-70:before {
+            background-image: linear-gradient(transparent,#111),linear-gradient(transparent,#111) !important;
+            content: "" !important;
+            height: 70% !important;
+            bottom: 0 !important;
+            left: 0 !important;
+            right: 0 !important;
+            position: absolute !important;
+            width: 100% !important;
+        } 
+        h2.title-medium-light a {
+            color: #fff;
+            font-family:'Moul', cursive !important; 
+            font-size: 14px !important;
+            text-align: center !important;
+            padding-top: 70% !important;
+        }
+        .container{
+            background-color: white;
+            margin-top: -11px;;
+            margin-bottom: 10px;
+        }
+        h6 a{
+            color: black!important;
+            font-size: 15px !important;
+            text-align: left !important;
+        }  
+        h6 a:hover{
+            color: red !important;
+        }  
+        .site-section {
+            padding: 0 !important;
+        }
+        @media (min-width: 768px)
+        .site-section {
+            padding: 0 !important;
+        }
+        .site-section {
+            padding: 0 !important;
+        }
+        .slide {
+            height: 0 !important;
+            min-height: 370px;
+            margin-bottom: -80px !important;
+        }
+        .sticky-wrapper {
+            margin-bottom: -50px !important;
+        }
+        .sticky-wrapper .site-navbar {
+            font-family: 'Bokor', cursive;
+        }
+        #input{
+            height: 40px;
+        }
+        div.input{
+            padding: 5px;
+        }
+        ul li.nav-link:hover{
+            background-color: dimgray !important;
+            color: black !important;
+        }
+        .nav-link{
+            font-family: 'Bokor', cursive;
+        }
+        .carousel-indicators{
+            margin-bottom: 0;
+        }
+        .col-xl-6.col-lg-7.col-md-6.col-sm-12{
+            margin-bottom: -50px;
+        }
+        .font-gray-7, body {
+            color: black;
+        }
+        .col-xl-6.col-lg-7.col-md-6.col-sm-12{
+            margin-bottom: 0;
+        }
+        #demo{
+            padding-bottom: 20px;
+        }
+        .mb-2, .my-2 {
+            margin-top: -15px;
+        }
+        .img-scale-animate{
+            margin-right: -10px !important;
+        }
+        h5 a{
+            font-family: 'Moul', cursive !important;
+/*            color: white;*/
+            font-size: 15px;
+        }
+        h5 a:hover{
+            color: red;
+        }
+        h3 a{
+            font-family: 'Moul', cursive !important;
+            font-size: 10px;
+        }
+        .top-bar {
+            margin-bottom: -10px;
+        }
+        .list-down-menu{
+            position: absolute;
+            padding-top: 25%;
+            text-align: center;
+        }
+        .list-down-menu2{
+            position: absolute;
+            padding-top: 10%;
+            text-align: center;
+        }
+        /* We write komsan */
+        .list-a-komsan1{
+            border: 5px solid red !important;
+            background-color: red !important;
+            color:white;
+            margin-bottom: 10px;
+            font-family:'Battambang', cursive !important;
+            /* border-radius: 12px 12px 0 0; */
+        }
+        .list-a-komsan2{
+            text-align: right;
+            font-family:'Battambang', cursive;
+            float: right;
+        }
+        div.list-komsan1{
+            float: right !important;
+            margin-top: 5px;
+            border-top: 3px solid red;
+            padding-top: 10px;
+        }
+        .list-komsan1-h6{
+            font-family: 'Battambang',cursive;
+            color: black;
+        }
+        div.list-komsan2{
+            border-top: 3px solid red;
+            margin-top: 5px;
+            padding-top: 10px;
+        }
+        /* End we write komsan */
+        .container-list-new{
+            margin-bottom: 10px;
+        }
+        /* we write 3 */
+        .list-a-tos1{
+            border: 5px solid blue !important;
+            background-color: blue !important;
+            color: white;
+            margin-bottom: 10px;
+            font-family: 'Battambang', cursive !important;
+            /* border-radius: 12px 12px 0 0; */
+        }
+        div.list-tos1{
+            float: right!important;
+            margin-top: 5px;
+            border-top: 3px solid blue;
+            padding-top: 10px;
+        }
+        div.list-tos2{
+            border-top: 3px solid blue;
+            margin-top: 5px;
+            padding-top: 10px;
+        }
+        /* end we write 3 */
