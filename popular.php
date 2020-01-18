@@ -15,6 +15,9 @@
                 </span>
             </form>   <br>     
             <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FKnongsrokcom%2F&amp;tabs&amp;width=340&amp;height=214&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=658304207661152" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            <?php
+                require_once('./gift/smart.php');    
+            ?>
         </div>
         <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-komsan2">
             <div class="row keep-items-4-md">

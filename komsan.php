@@ -12,6 +12,9 @@
                 <h6 class="list-komsan1-h6">
                     <a class="stretched-link" href="#">មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
                 </h6>
+                <?php
+                    require_once('./gift/tiger.php');
+                ?>
             </div>
             <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-komsan2">
                 <div class="row keep-items-4-md">

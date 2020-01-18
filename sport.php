@@ -14,7 +14,10 @@
                 <i class="far fa-calendar-alt"> <b>2020-01-13</b></i>
                 <h6 class="list-komsan1-h6">
                     <a class="stretched-link" href="#">ក្រុមបិសាចក្រហម Manchester United កំពុងប្រជែងទិញតារាឆ្នើមម្នាក់របស់ក្រុម Barcelona</a>
-                </h6>
+                </h6>     
+                <?php
+                    require_once('./gift/memo.php');
+                ?>           
             </div>
             <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-komsan2">
                 <div class="row keep-items-4-md">
