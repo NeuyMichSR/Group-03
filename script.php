@@ -9,3 +9,4 @@
     <script src="js/jquery.easing.1.3.js"></script>
     <script src="js/aos.js"></script>
     <script src="js/main.js"></script>
+    <script src="js-me/mouseover.js"></script>

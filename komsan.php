@@ -1,7 +1,10 @@
+    
     <div class="site-wrap" id="home-section">
         <div class="container container-list-new">
             <div>
+                <span style="border: 10px solid red;border-left: 8px solid transparent;"></span>
                 <a class="list-a-komsan1" href="#">កម្សាន្ត</a>
+                <span style="border: 10px solid red;border-right: 8px solid transparent;"></span>
                 <a class="list-a-komsan2" href="#">អត្ថបទច្រើនទៀត<i class="border fas fa-chevron-right" style="padding: 3px;"></i></a>
             </div>
             <div class="col-xl-4 col-lg-7 col-md-6 col-sm-12 list-komsan1">
@@ -58,3 +61,4 @@
             </div>
         </div>
     </div>
+    

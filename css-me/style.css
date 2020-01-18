@@ -44,7 +44,6 @@ font-family: 'Battambang', cursive;
         .site-section {
             padding: 0 !important;
         }
-        @media (min-width: 768px)
         .site-section {
             padding: 0 !important;
         }
@@ -128,6 +127,9 @@ font-family: 'Battambang', cursive;
             font-family:'Battambang', cursive !important;
             /* border-radius: 12px 12px 0 0; */
         }
+        a.list-a-komsan1:hover{
+            color: black !important;
+        }
         .list-a-komsan2{
             text-align: right;
             font-family:'Battambang', cursive;
@@ -173,3 +175,17 @@ font-family: 'Battambang', cursive;
             padding-top: 10px;
         }
         /* end we write 3 */
+        .site-navbar .site-navigation .site-menu > li > a:hover{
+            color: red !important;
+            -webkit-transition: 2s !important; 
+            transition: 2s !important;
+        }
+
+        a#mouseover1{
+            display: none;
+            transition: width 2s linear 1s;
+        }
+        button.mouseover{
+            position: absolute;
+            width: 50%;
+        }

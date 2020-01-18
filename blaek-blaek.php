@@ -1,7 +1,9 @@
     <div class="site-wrap" id="home-section">
         <div class="container container-list-new">
             <div>
+                <span style="border: 10px solid blue;border-left: 8px solid transparent;"></span>
                 <a class="list-a-tos1" href="#">ប្លែកៗ</a>
+                <span style="border: 10px solid blue;border-right: 8px solid transparent;"></span>
                 <a class="list-a-komsan2" href="#">
                     អត្ថបទច្រើនទៀត<i class="border fas fa-chevron-right" style="padding: 3px;"></i>
                 </a>
