@@ -4,9 +4,6 @@ font-family: 'Chenla', cursive;
 font-family: 'Freehand', cursive 
 font-family: 'Battambang', cursive;
 */
-        body{
-            background-color: gray;
-        }
         .bg-light {
             background-color: #ffffff !important;
         }
@@ -16,37 +13,20 @@ font-family: 'Battambang', cursive;
         .tab-space1>div {
              padding: 0 1px !important; 
         }
-        .img-fluid {
+        .img-head {
             margin-bottom: 20px;
         }
         .tab-space1 {
             margin-left: -1px !important;
             margin-right: -1px !important;
         }
-        p.title-medium-light a {
-            font-family:'Moul', cursive !important; 
-            font-size: 16px !important;
-            position: absolute !important;
+        div.carousel-caption #slider {
+            font-family: 'Freehand', cursive !important;
+            color: rgb(255, 255, 255) !important;
+            background-color: rgba(32, 26, 22, 0.3);
         }
         .mask-content-sm{
             position: absolute;
-        }
-         .img-overlay-70:before {
-            background-image: linear-gradient(transparent,#111),linear-gradient(transparent,#111) !important;
-            content: "" !important;
-            height: 70% !important;
-            bottom: 0 !important;
-            left: 0 !important;
-            right: 0 !important;
-            position: absolute !important;
-            width: 100% !important;
-        } 
-        h2.title-medium-light a {
-            color: #fff;
-            font-family:'Moul', cursive !important; 
-            font-size: 14px !important;
-            text-align: center !important;
-            padding-top: 70% !important;
         }
         .container{
             background-color: white;
@@ -114,7 +94,7 @@ font-family: 'Battambang', cursive;
             margin-top: -15px;
         }
         .img-scale-animate{
-            margin-right: -10px !important;
+            margin-bottom: 10px !important;
         }
         h5 a{
             font-family: 'Moul', cursive !important;
@@ -132,12 +112,10 @@ font-family: 'Battambang', cursive;
             margin-bottom: -10px;
         }
         .list-down-menu{
-            position: absolute;
             padding-top: 25%;
             text-align: center;
         }
         .list-down-menu2{
-            position: absolute;
             padding-top: 10%;
             text-align: center;
         }
