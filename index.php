@@ -9,6 +9,7 @@
     
     <?php
     //<!--start Navbar -->
+        // require_once('smart.php');
         require_once('navbar.php');
     
     //<!-- end Navbar -->

@@ -23,7 +23,7 @@
                         <a href="./images/sport/2.jpg">
                             <img src="./images/sport/2.jpg"  alt="" style="width: 100%;" >
                         </a>
-                        <a href="#" id="mouseover1" style=""><button type="button"  class="btn btn-primary mouseover"​ style="">អានបន្ត...</button></a>
+                        <a href="#" id="mouseover1" ><button type="button"  class="btn btn-primary mouseover"​ >អានបន្ត...</button></a>
                         <i class="far fa-calendar-alt"> 2020-01-13</i>
                         <h6 class="list-komsan1-h6">
                             <a class="" href="#">កីឡាករ ៥ រូបដែល Real Madrid អាចនឹងនាំយកមកចូលរួមជាមួយក្លឹបក្នុងរដូវកាលទីផ្សារដោះដូរកីឡាករខែមករានេះ</a>

@@ -141,6 +141,12 @@ font-family: 'Battambang', cursive;
             border-top: 3px solid red;
             padding-top: 10px;
         }
+        div.list-komsan1-1{
+            float: right !important;
+            margin-top: 5px;
+            /* border-top: 3px solid red; */
+            padding-top: 10px;
+        }
         .list-komsan1-h6{
             font-family: 'Battambang',cursive;
             color: black;
@@ -162,6 +168,9 @@ font-family: 'Battambang', cursive;
             margin-bottom: 10px;
             font-family: 'Battambang', cursive !important;
             /* border-radius: 12px 12px 0 0; */
+        }
+        .list-a-tos1:hover{
+            color: black !important;
         }
         div.list-tos1{
             float: right!important;

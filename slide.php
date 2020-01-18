@@ -39,7 +39,7 @@
                     <div class="row tab-space1">
                         <div class="col-12">
                             <div class="img-overlay-70 img-scale-animate mb-2">
-                                <div class="mask-content-sm">                                   
+                                <div class="mask-content-sm">  <br><br>                               
                                     <h5 class="title-medium-light list-down-menu">
                                         <a href="#">មិត្តល្អ!មិនប្រកាន់ក្រ ឬមាន នៅលីវ មានប្ដី ឬមេម៉ាយ ជិត ឬឆ្ងាយទេ សំខាន់នៅតែបន្តរាប់អានគ្នាស្មោះ មិនបោះបង់គ្នា</a>
                                     </h5>
