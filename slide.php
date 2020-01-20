@@ -51,13 +51,13 @@
                                 <p id="slider">ទឹងពពកខេត្តកោះកុង</p>
                             </div>
                         </div>                        
-                        <div class="col-xl-6 col-12" style="margin-top: 2px;">                                
+                        <div class="col-xl-6 col-lg-6 col-12" style="margin-top: 2px;">                                
                                 <img src="./images/slide/3.png" alt="" width="100%">
                                 <div class="carousel-caption">
                                     <p id="slider">ទឹងពពកខេត្តកោះកុង</p>
                                 </div>
                         </div>
-                        <div class="col-xl-6 col-12" style="margin-top: 2px;">                                
+                        <div class="col-xl-6 col-lg-6 col-12" style="margin-top: 2px;">                                
                                 <img src="./images/slide/4.png" alt="" width="100%">
                                 <div class="carousel-caption">
                                     <p id="slider">ទឹងពពកខេត្តកោះកុង</p>
