@@ -4,6 +4,8 @@
                 <div class="col-lg-6 col-md-12">        
                     <div id="demo" class="carousel slide" data-ride="carousel">                  
                         <div class="carousel-inner">
+                        
+
                             <div class="carousel-item active">
                                 <img src="./images/slide/slide7.jpg" alt="Los Angeles" style="width: 100%;">
                                 <div class="carousel-caption">
@@ -13,7 +15,9 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+
+
+                            <!-- <div class="carousel-item">
                                 <img src="./images/slide/slide4.jpg" alt="Chicago" style="width: 100%;">
                                 <div class="carousel-caption">
                                     <a href="#" class="stretched-link">
@@ -32,7 +36,7 @@
                                     </a>
                                 </div>
                                 
-                            </div>
+                            </div> -->
                         </div>                  
                         <a class="carousel-control-prev slider" href="#demo" data-slide="prev">
                             <span class="carousel-control-prev-icon"></span>

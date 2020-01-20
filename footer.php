@@ -8,7 +8,9 @@
                   <h2 class="footer-heading mb-4">KNONGSROK</h2>
                   <div class="border-color1"></div>
                   <ul class="list-unstyled">
-                    <li><a href="#" class="text-white">Ads with knongsrok</a><div id="border1"></div></li>
+                    <li><a href="#" class="text-white border1">Ads with knongsrok</a>
+                    <!-- <div id="border1"></div> -->
+                  </li>
                     <li><a href="#" class="text-white">How we make Knongsrok</a></li>
                     <li><a href="#" class="text-white">Privacy Policy</a></li>
                     <li><a href="#" class="text-white">Disclaimer</a></li>
