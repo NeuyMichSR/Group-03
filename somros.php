@@ -13,7 +13,7 @@
                     <a class="stretched-link" href="#">មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
                 </h6>
                 <?php
-                    require_once('./gift/memo.php');
+                    require_once('./gift/tiger.php');
                 ?>
 
             </div>
@@ -65,4 +65,3 @@
             </div>
         </div>
     </div>
-    <br><br><br>

@@ -13,9 +13,6 @@ font-family: 'Battambang', Time New Roman;
         .tab-space1>div {
              padding: 0 1px !important; 
         }
-        .img-head {
-            margin-bottom: 20px;
-        }
         .tab-space1 {
             margin-left: -1px !important;
             margin-right: -1px !important;
@@ -23,7 +20,7 @@ font-family: 'Battambang', Time New Roman;
         div.carousel-caption #slider {
             font-family: 'Freehand', cursive !important;
             color: rgb(255, 255, 255) !important;
-            background-color: rgba(32, 26, 22, 0.3);
+            background-color: rgba(19, 16, 15, 0.616);           
         }
         .mask-content-sm{
             position: absolute;
