@@ -2,9 +2,9 @@
     <footer class="site-footer" style="background-color: black; padding: 60px; font-family: 'Battambang', Time New Roman;">
         <div class="container" style="background-color: black;">
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-8">
               <div class="row">
-                <div class="col-md-7">
+                <div class="col-md-6">
                   <h2 class="footer-heading mb-4">KNONGSROK</h2>
                   <div class="border-color1"></div>
                   <ul class="list-unstyled">
@@ -17,20 +17,19 @@
                     <li><a href="#" class="text-white">Terms of Service</a></li>
                   </ul>
                 </div>
-                <div class="col-md-4 ml-auto">
-                  <h2 class="footer-heading mb-4">ARCHIVES</h2>
-                  <div class="border-color1"></div>
+                <div class="col-md-6">
+                  <h2 class="footer-heading mb-4​">Group-3</h2>
+                  <div class="border-color1" style="margin-top: 10px;"></div>
                   <ul class="list-unstyled">
-                    <li><a href="#" class="text-white">Articles</a></li>
-                    <li><a href="#" class="text-white">Videos</a></li>
-                   
+                    <li><a href="https://www.facebook.com/neuy.mich" target="_blank" class="text-white">នឺយ​​ មិច (Neuy Mich)</a></li>
+                    <li><a href="https://www.facebook.com/rida.kev.3" target="_blank" class="text-white">កែវ​ រីដា (Kev Rida)</a></li>   
+                    <li><a href="https://www.facebook.com/profile.php?id=100010531364543" target="_blank" class="text-white">ខឹក កក្កដា (Khoek Kakada)</a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100005319738786" target="_blank" class="text-white">ប៊ុនធួន រាន្ធីន(Bunthourn Rantheen)</a></li>                 
                   </ul>
                 </div>
-
               </div>
             </div>
-            <div class="col-md-4 ml-auto">
-
+            <div class="col-md-4">
               <div class="mb-5">
                 <h2 class="footer-heading mb-4">POST GALLERY</h2>
                 <div class="border-color1"></div>
@@ -42,8 +41,6 @@
                     </div>
                   </div>
               </div>
-
-
               <h2 class="footer-heading mb-4">Follow Us</h2>
               <a href="#about-section" class="smoothscroll pl-0 pr-3  border bg-info text-white" ><span style="padding-left: 15px;" class="icon-facebook"></span></a>
               <a href="#" class="pl-3 pr-3 border bg-info text-white"><span class="icon-twitter"></span></a>
