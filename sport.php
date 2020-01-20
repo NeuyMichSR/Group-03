@@ -21,12 +21,10 @@
             </div>
             <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-komsan2">
                 <div class="row keep-items-4-md">
-                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6" onmouseover="mouseOver()" onmouseout="mouseOut()">
-                    
+                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
                         <a href="./images/sport/2.jpg">
                             <img src="./images/sport/2.jpg"  alt="" style="width: 100%;" >
                         </a>
-                        <a href="#" id="mouseover1" ><button type="button"  class="btn btn-primary mouseover"​ >អានបន្ត...</button></a>
                         <i class="far fa-calendar-alt"> 2020-01-13</i>
                         <h6 class="list-komsan1-h6">
                             <a class="" href="#">កីឡាករ ៥ រូបដែល Real Madrid អាចនឹងនាំយកមកចូលរួមជាមួយក្លឹបក្នុងរដូវកាលទីផ្សារដោះដូរកីឡាករខែមករានេះ</a>
