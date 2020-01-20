@@ -10,7 +10,7 @@
             </div>
             <div class="col-xl-4 col-lg-7 col-md-6 col-sm-12 list-tos1">
                 <a class="position-relative img-scale-animate mb-30" href="./images/eat/eat-01.jpg">
-                    <img src="./images/eat/eat-01.jpg" alt="" style="width: 100%;">
+                    <img src="./images/blaek-blaek/pic1.jpg" alt="" style="width: 100%;">
                 </a>
                  <i class="far fa-calendar-alt"> <b>2019-12-20</b></i>
                 <h6 class="list-komsan1-h6">
@@ -24,7 +24,7 @@
                 <div class="row keep-items-4-md">
                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
                         <a href="./images/eat/eat-02.jpg">
-                            <img src="./images/eat/eat-02.jpg" alt="" style="width: 100%;">
+                            <img src="./images/blaek-blaek/pic2.jpg" alt="" style="width: 100%;">
                         </a>
                         <i class="far fa-calendar-alt"> 2019-12-25</i>
                         <h6 class="list-komsan1-h6">
@@ -34,7 +34,7 @@
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
                         <a href="./images/eat/eat-03.jpg" class="stretched-link">
-                            <img src="./images/eat/eat-03.jpg" alt="" style="width: 100%;">
+                            <img src="./images/blaek-blaek/pic3.jpg" alt="" style="width: 100%;">
                         </a>
                         <i class="far fa-calendar-alt"> <b>2019-12-24</b></i>
                         <h6 class="list-komsan1-h6">
@@ -42,7 +42,7 @@
                         </h6>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
-                        <a href="./images/eat/eat-04.jpg"><img src="./images/eat/eat-04.jpg" alt="" style="width: 100%;"></a>
+                        <a href="./images/blaek-blaek/pic4.jpg"><img src="./images/blaek-blaek/pic4.jpg" alt="" style="width: 100%;"></a>
                         <i class="far fa-calendar-alt"> <b>2019-12-22</b></i>
                         <h6 class="list-komsan1-h6">
                             <a class="stretched-link" href="#">ហាងកាហ្វេសៀវភៅ អនុស្សាវរីយ៍-Anussavry របស់អ្នកនិពន្ធល្បី 
@@ -50,7 +50,7 @@
                         </h6>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
-                        <a href="./images/eat/eat-05.jpg"><img src="./images/eat/eat-05.jpg" alt="" style="width: 100%;"></a>
+                        <a href="./images/eat/eat-05.jpg"><img src="./images/blaek-blaek/pic5.jpg" alt="" style="width: 100%;"></a>
                         <i class="far fa-calendar-alt"> <b>2019-12-19</b></i>
                         <h6 class="list-komsan1-h6">
                             <a class="stretched-link" href="#">ឆ្ងល់យូរហើយថាបង្អែមនេះខ្មែរហៅថាម៉េច? ពេលនេះភ្ញាក់ខ្លួន តោះ!
@@ -58,7 +58,7 @@
                         </h6>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
-                        <a href="./images/eat/eat-06.jpg"><img src="./images/eat/eat-06.jpg" alt="" style="width: 100%;"></a>
+                        <a href="./images/eat/eat-06.jpg"><img src="./images/blaek-blaek/pic6.jpg" alt="" style="width: 100%;"></a>
                         <i class="far fa-calendar-alt"> <b>2019-12-22</b></i>
                         <h6 class="list-komsan1-h6">
                             <a class="stretched-link" href="#">មានហើយនៅស្រុកខ្មែរ! កាហ្វេស្រុកស្រែ​ ទទួលអារម្មណ៍ផឹកកាហ្វេកណ្ដាលវាលស្រែជាមួយនឹងធម្មជាតិ
@@ -66,7 +66,7 @@
                         </h6>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
-                        <a href="./images/eat/eat-07.jpg"><img src="./images/eat/eat-07.jpg" alt="" style="width: 100%;"></a>
+                        <a href="./images/eat/eat-07.jpg"><img src="./images/blaek-blaek/pic7.jpg" alt="" style="width: 100%;"></a>
                         <i class="far fa-calendar-alt"> <b>2019-12-18</b></i>
                         <h6 class="list-komsan1-h6">
                             <a class="stretched-link" href="#">រកឯណាបាន ​ទទួលទានកាហ្វេ និងភេសជ្ជៈឆ្ងាញ់ៗ 
