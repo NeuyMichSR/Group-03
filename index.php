@@ -45,7 +45,7 @@
     // start footer
     require_once('footer.php');
     // end footer
-    require_once('script.php');
+    require_once('script.php');    
     ?>
 
     </body>

@@ -16,7 +16,7 @@
                     <a class="stretched-link" href="#">ក្រុមបិសាចក្រហម Manchester United កំពុងប្រជែងទិញតារាឆ្នើមម្នាក់របស់ក្រុម Barcelona</a>
                 </h6>     
                 <?php
-                    require_once('./gift/memo.php');
+                    require_once('./gift/tiger.php');
                 ?>           
             </div>
             <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-komsan2">

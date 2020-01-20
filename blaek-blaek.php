@@ -16,6 +16,9 @@
                 <h6 class="list-komsan1-h6">
                     <a class="stretched-link" href="#">ជាតិនិយមពិតៗ វៀតណាមគាំទ្រផឹកតែកាហ្វេក្នុងស្រុក ​រហូតកាហ្វេប្រេនល្បីៗបាស់ជើងអស់</a>
                 </h6>
+                <?php
+                    require_once('./gift/tiger.php');
+                ?>
             </div>
             <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-tos2">
                 <div class="row keep-items-4-md">

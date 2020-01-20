@@ -2,7 +2,7 @@
 font-family: 'Moul', cursive;
 font-family: 'Chenla', cursive;
 font-family: 'Freehand', cursive 
-font-family: 'Battambang', cursive;
+font-family: 'Battambang', Time New Roman;
 */
         .bg-light {
             background-color: #ffffff !important;
@@ -198,3 +198,33 @@ font-family: 'Battambang', cursive;
             position: absolute;
             width: 50%;
         }
+        footer.site-footer{
+            padding: 60px !important;
+        }
+        .site-footer .footer-heading {
+            font-size: 20px !important;
+            font-family: 'Battambang', Time New Roman !important;
+            
+        }
+        div.border-color1{
+            margin-top: -10px;
+            margin-bottom: 10px;
+            border-bottom: 2px solid red;
+            width: 20%;
+        }
+        div#border1{
+            padding-bottom: -20px !important;        
+            border-top: 10px solid red;    
+            width: 5%;    
+            transition: all 5s;
+        }
+        div#border1:hover{
+            width: 100%;
+        }
+        .site-footer ul li {
+            margin-bottom: 0px;
+        }
+        .site-footer ul li a:hover{
+            color: red !important;
+            transition: all 2s  !important;            
+        }     

@@ -19,3 +19,9 @@ function mouseOut() {
     x.fontFamily = "";
     x.display = "none";
   }
+
+function Selection(){
+  var y =document.getElementById("border1").style;
+  y.borderTop = "10px solide red";
+  y.width ="5%";
+}
