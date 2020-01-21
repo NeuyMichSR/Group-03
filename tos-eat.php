@@ -1,35 +1,38 @@
-    <div class="site-wrap" id="home-section">
-        <div class="container container-list-new">
-            <div>
-                <span style="border: 10px solid blue;border-left: 8px solid transparent;"></span>
-                <a class="list-a-tos1" href="#">តោះញុាំ</a>
-                <span style="border: 10px solid blue;border-right: 8px solid transparent;"></span>
-                <a class="list-a-komsan2" href="#">
-                    អត្ថបទច្រើនទៀត<i class="border fas fa-chevron-right" style="padding: 3px;"></i>
-                </a>
+    <div class="container">
+        <div​​ class="row">
+            <div class="col-12">
+                <span class="style-border-left"></span>
+                <a href="#" class="border-header">តោះញ៉ាំ</a>
+                <span class="style-border-right" style=""></span>
+                <span style="float: right;">
+                    <a href="#" class="font-khmer">អត្ថបទច្រើនទៀត
+                        <i class="border fas fa-chevron-right" style="padding: 3px;"></i>
+                    </a>
+                </span>                
+                <div class="border-bottom1"></div>
             </div>
-            <div class="col-xl-4 col-lg-7 col-md-6 col-sm-12 list-tos1">
-                <a class="position-relative img-scale-animate mb-30" href="./images/eat/eat-01.jpg"><img src="./images/eat/eat-01.jpg" alt="" style="width: 100%;"></a> <i class="far fa-calendar-alt"> <b>2019-12-20</b></i>
+        </div>        
+    </div><br>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-lg-6 col-md-4 col-sm-12">
+                <img src="images/eat/eat-01.jpg" alt="" width="100%">
+                <i class="far fa-calendar-alt"> <b>2020-01-13</b></i>
                 <h6 class="list-komsan1-h6">
-                    <a class="stretched-link" href="#">ជាតិនិយមពិតៗ វៀតណាមគាំទ្រផឹកតែកាហ្វេក្នុងស្រុក ​រហូតកាហ្វេប្រេនល្បីៗបាស់ជើងអស់</a>
-                </h6>
-                <?php
-                    require_once('./gift/aclida.php');
-                ?>
+                    <a class="stretched-link" href="#">មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
+                </h6> 
             </div>
-            <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-tos2">
-                <div class="row keep-items-4-md">
-                    <?php
-                        for($w=2;$w<=7;$w++){
-                    ?>
+            <div class="col-xl-8 col-lg-6 col-md-4 col-sm-12">
+                <div class="row">
+                    <?php for($x=2;$x<=7;$x++){ ?>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
-                            <a href="./images/eat/eat-0<?php echo $w; ?>.jpg"><img src="./images/eat/eat-0<?php echo $w; ?>.jpg" alt="" style="width: 100%;"></a>
-                            <i class="far fa-calendar-alt"> 2019-12-25</i>
+                            <img src="images/eat/eat-0<?php echo $x; ?>.jpg" alt="" width="100%">
+                            <i class="far fa-calendar-alt"> <b>2020-01-13</b></i>
                             <h6 class="list-komsan1-h6">
-                                <a class="stretched-link" href="#"><?php echo $w; ?> អស្ចារ្យមែន! ម្ហូបស្រុកខ្មែរល្បីថាឆ្ងាញ់ពេក ​រហូតកម្មវិធីបរទេសល្បីចុះមកថត និងភ្លក់ដោយផ្ទាល់ ​ហើយលាន់មាត់ស្ទើរមិនគួរឱ្យជឿ (មានវីដេអូ)</a>
-                            </h6>
+                                <a class="stretched-link" href="#"><?php echo $x; ?>មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
+                            </h6> 
                         </div>
-                    <?php   }?>
+                    <?php }?>                    
                 </div>
             </div>
         </div>

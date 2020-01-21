@@ -1,8 +1,4 @@
-    <?php
-        require_once('head.php');
-    ?>
-    
-    
+
     <div id="overlayer"></div>
     <div class="loader">
       <div class="spinner-border text-primary" role="status">
@@ -10,7 +6,6 @@
       </div>
     </div>
     <div class="site-wrap" id="home-section">
-
       <div class="site-mobile-menu site-navbar-target">
         <div class="site-mobile-menu-header">
           <div class="site-mobile-menu-close mt-3">
@@ -20,7 +15,7 @@
         <div class="site-mobile-menu-body"></div>
       </div>
         <!--    <div class="site-wrap" id="home-section">-->
-        <div class="top-bar bg-light ">
+        <div class="top-bar bg-white ">
             <div class="container" id="header">
                 <div class="row">
                     <div class="col-12">
@@ -70,7 +65,7 @@
                                     <ul class="dropdown arrow-top">
                                         <li><a href="#" class="nav-link">Asian cup</a></li>
                                         <li><a href="#" class="nav-link">Laligar</a></li>
-                                        <li><a href="#" class="nav-link">Premier League</a></li>
+                                        <li><a href="sportlink.php" class="nav-link">Premier League</a></li>
                                     </ul>
                                 </li>
 

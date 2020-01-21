@@ -1,37 +1,36 @@
- 
-    <div class="site-wrap" id="home-section">
-        <div class="container container-list-new">
-            <div>
-                <span style="border: 10px solid red;border-left: 8px solid transparent;"></span>
-                <a class="list-a-komsan1" href="#">កម្សាន្ត</a>
-                <span style="border: 10px solid red;border-right: 8px solid transparent;"></span>
-                <a class="list-a-komsan2" href="#">អត្ថបទច្រើនទៀត<i class="border fas fa-chevron-right" style="padding: 3px;"></i></a>
-            </div>          
-            <div class="col-xl-4 col-lg-7 col-md-6 col-sm-12 list-komsan1">
-                <a class="position-relative img-scale-animate mb-30" href="./images/3.jpg">
-                    <img src="./images/komsan/pic1.jpg" alt="" style="width: 100%;">
-                </a> 
+    <br>
+    <div class="container">
+        <div​​ class="row">
+            <div class="col-12">
+                <span style="border: 8px solid red;border-left: 8px solid transparent;"></span>
+                <a href="#" class="border-header">កម្សាន្ត</a>
+                <span style="border: 8px solid red;border-right: 8px solid transparent;"></span>
+                <span style="float: right;"><a href="#" class="font-khmer">អត្ថបទច្រើនទៀត<i class="border fas fa-chevron-right" style="padding: 3px;"></i></a></span>
+                
+                <div class="border-bottom1"></div>
+            </div>
+        </div>        
+    </div><br>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-lg-6 col-md-4 col-sm-12">
+                <img src="images/komsan/pic1.jpg" alt="" width="100%">
                 <i class="far fa-calendar-alt"> <b>2020-01-13</b></i>
                 <h6 class="list-komsan1-h6">
                     <a class="stretched-link" href="#">មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
-                </h6>              
-                <?php
-                    require_once('./gift/tiger.php');
-                ?>
+                </h6> 
             </div>
-            <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12 list-komsan2">
-                <div class="row keep-items-4-md">
-                    <?php
-                        for($y=2;$y<=7;$y++){
-                    ?>
-                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
-                        <a href="./images/3.jpg"><img src="./images/komsan/pic<?php echo $y;?>.jpg" alt="" style="width: 100%;"></a>
-                        <i class="far fa-calendar-alt"> 2020-01-13</i>
-                        <h6 class="list-komsan1-h6">
-                            <a class="stretched-link" href="#"><?php echo $y;?> មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
-                        </h6>
-                    </div>
-                    <?php }?>
+            <div class="col-xl-8 col-lg-6 col-md-4 col-sm-12">
+                <div class="row">
+                    <?php for($x=2;$x<=7;$x++){ ?>
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                            <img src="images/komsan/pic<?php echo $x; ?>.jpg" alt="" width="100%">
+                            <i class="far fa-calendar-alt"> <b>2020-01-13</b></i>
+                            <h6 class="list-komsan1-h6">
+                                <a class="stretched-link" href="#"><?php echo $x; ?>មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
+                            </h6> 
+                        </div>
+                    <?php }?>                    
                 </div>
             </div>
         </div>

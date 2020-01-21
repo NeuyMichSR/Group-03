@@ -8,9 +8,9 @@
                   <h2 class="footer-heading mb-4">KNONGSROK</h2>
                   <div class="border-color1"></div>
                   <ul class="list-unstyled">
-                    <li><a href="#" class="text-white border1">Ads with knongsrok</a>
-                    <!-- <div id="border1"></div> -->
-                  </li>
+                    <li id="footer-border" style="">
+                      <a href="#" class="text-white">Ads with knongsrok</a>                    
+                    </li>
                     <li><a href="#" class="text-white">How we make Knongsrok</a></li>
                     <li><a href="#" class="text-white">Privacy Policy</a></li>
                     <li><a href="#" class="text-white">Disclaimer</a></li>
@@ -42,10 +42,10 @@
                   </div>
               </div>
               <h2 class="footer-heading mb-4">Follow Us</h2>
-              <a href="#about-section" class="smoothscroll pl-0 pr-3  border bg-info text-white" ><span style="padding-left: 15px;" class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3 border bg-info text-white"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3 border bg-info text-white"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3  border bg-info text-white"><span class="icon-linkedin"></span></a>
+              <a href="#about-section" class="smoothscroll pl-0 pr-3   bg-info text-white" ><span style="padding-left: 15px;" class="icon-facebook"></span></a>
+              <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-twitter"></span></a>
+              <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-instagram"></span></a>
+              <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-linkedin"></span></a>
               </form>
             </div>
           </div>

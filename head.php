@@ -1,4 +1,4 @@
-<head>
+
     <title>Knongsork-នៅជាមួយយើងទាំងអស់គ្នា</title>
     <meta c​harset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,12 +14,9 @@
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
     <link rel="stylesheet" href="css/aos.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Bokor|Chenla|Freehand|Moul&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bokor|Chenla|Freehand|Battambang|Moul&display=swap" rel="stylesheet">
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css-me/style.css">
-    <style>
-
-    </style>
-</head>
+    <link rel="stylesheet" href="css-me/style_me.css">

@@ -1,0 +1,132 @@
+/* navbar */
+.sticky-wrapper {
+    margin-bottom: -70px !important;
+}
+.sticky-wrapper .site-navbar {
+    font-family: 'Bokor', cursive;
+} 
+.site-navbar .site-navigation .site-menu > li > a:hover{
+    color: red !important;
+    -webkit-transition: .5s !important; 
+    transition: .5s !important;
+}
+.slide {
+    height: 0 !important;
+    min-height: 370px;
+    margin-bottom: -80px !important;
+}
+/* slider */
+div.list-komsan2{
+    border-top: 3px solid red;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+div.carousel-caption #slider {
+    font-family: 'Freehand', cursive !important;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgba(19, 16, 15, 0.616);           
+}
+.list-a-komsan1{
+    border: 5px solid red !important;
+    background-color: red !important;
+    color:white;
+    margin-bottom: 0px !important;
+    padding: 2px 0 4px 0; 
+    font-family:'Battambang', cursive !important;
+}
+div.list-komsan1-1{
+    float: right !important;
+    margin-top: 5px;
+    padding-top: 10px;
+} 
+#input{
+    height: 40px;
+}
+div.input{
+    padding: 5px;
+}
+#header{
+    margin-top: 0px;
+}
+.tab-space1>div {
+    padding: 0 1px !important; 
+}
+/* popular */
+.border-style-popular-left{
+    border: 10px solid red;
+    border-left: 8px solid transparent;
+}
+.border-style-popular-right{
+    border: 10px solid red;
+    border-right: 8px solid transparent;
+}
+.header-p{
+    margin: 5% 20%;
+}
+.button-none-style{
+    border-radius: 0;
+    border: none;
+    height: 40px;
+}
+/* style border header */
+.font-khmer{
+    font-family: 'Battambang',Time New Roman;
+}
+.font-khmer-big{
+    font-size: 20px;
+}
+.style-border-left{
+    border: 8px solid red;
+    border-left: 8px solid transparent;
+}
+.style-border-right{
+    border: 8px solid red;
+    border-right: 8px solid transparent;
+}
+a.border-header{
+    border: 5px solid red;
+    background-color: red;
+    color: white;
+    padding: 3px 0;
+    font-size: 17px;
+    font-family: 'Battambang',Time New Roman;
+}
+div.border-bottom1{
+    border-bottom: 2px solid red;
+    width: 100%;
+    padding-bottom: 1px;
+}
+.list-komsan1-h6{
+    font-family: 'Battambang',cursive;
+    color: black;
+}
+h6 a{
+    color: black!important;
+    font-size: 15px !important;
+    text-align: left !important;
+}  
+h6 a:hover{
+    color: red !important;
+} 
+
+/* footer */
+.bg-info{
+    padding: 10px ;
+}
+.site-footer ul li {
+    border-bottom: 2px solid red !important;
+}
+footer.site-footer{
+    padding: 60px !important;
+}
+.site-footer .footer-heading {
+    font-size: 20px !important;
+    font-family: 'Battambang', Time New Roman !important;
+    
+}
+div.border-color1{
+    margin-top: -10px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid red;
+    width: 20%;
+}
