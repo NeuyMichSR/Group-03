@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
     <?php require_once('head.php'); ?>
+    <style>
+
+    </style>
 </head>
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 

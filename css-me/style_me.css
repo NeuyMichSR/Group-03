@@ -110,6 +110,11 @@ h6 a:hover{
 } 
 
 /* footer */
+
+ul li a:hover{
+    color: red !important;
+    transition: all .5s !important;
+}
 .bg-info{
     padding: 10px ;
 }

@@ -42,7 +42,7 @@
                         <nav class="site-navigation text-right ml-auto " role="navigation">
                             <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
                                 <li><a href="index.php" class="nav-link active">ទំព័រដើម</a></li>
-                                <li><a href="#" class="nav-link">ជីវិតកម្សាន្តនិងតារា</a></li>
+                                <li><a href="life.php" class="nav-link">ជីវិតកម្សាន្តនិងតារា</a></li>
                                 <li class="has-children">
                                     <a href="#" class="nav-link">សម្រស់និងសុខភាព</a>
                                     <ul class="dropdown arrow-top">

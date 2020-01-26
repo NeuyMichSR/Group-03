@@ -475,7 +475,7 @@ h1, h2, h3, h4, h5,
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active {
-      color: #ff8b00 !important; }
+      color: #ff0000 !important; }
     .site-navbar .site-navigation .site-menu a {
       text-decoration: none !important;
       display: inline-block; }

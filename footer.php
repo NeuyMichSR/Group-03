@@ -24,7 +24,7 @@
                     <li><a href="https://www.facebook.com/neuy.mich" target="_blank" class="text-white">នឺយ​​ មិច (Neuy Mich)</a></li>
                     <li><a href="https://www.facebook.com/rida.kev.3" target="_blank" class="text-white">កែវ​ រីដា (Kev Rida)</a></li>   
                     <li><a href="https://www.facebook.com/profile.php?id=100010531364543" target="_blank" class="text-white">ខឹក កក្កដា (Khoek Kakada)</a></li>
-                    <li><a href="https://www.facebook.com/profile.php?id=100005319738786" target="_blank" class="text-white">ប៊ុនធួន រាន្ធីន(Bunthourn Rantheen)</a></li>                 
+                    <li><a href="https://www.facebook.com/profile.php?id=100005319738786" target="_blank" class="text-white">ប៊ុនធួន រាន្ធីន(Bunthourn Rantheen)</a></li>              
                   </ul>
                 </div>
               </div>
@@ -33,32 +33,26 @@
               <div class="mb-5">
                 <h2 class="footer-heading mb-4">POST GALLERY</h2>
                 <div class="border-color1"></div>
-                <form action="#" method="post" class="footer-suscribe-form">
-                  <div class="input-group mb-3">
-                    <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
-                    <div class="input-group-append">
-                      <button class="btn btn-primary text-white" type="button" id="button-addon2">Subscribe</button>
-                    </div>
-                  </div>
-              </div>
-              <h2 class="footer-heading mb-4">Follow Us</h2>
-              <a href="#about-section" class="smoothscroll pl-0 pr-3   bg-info text-white" ><span style="padding-left: 15px;" class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-linkedin"></span></a>
-              </form>
+                <div class="row">
+                  <?php for($t=1;$t<=6;$t++){ ?>
+                    <div class="col-xl-4 col-lg-4 col-4" style="margin-bottom: 5px; margin-right: -22px;"><img src="./images/life/life-<?php echo $t; ?>.jpg" alt="" width="100%"></div>
+                  <?php } ?>
+                </div>
+                <h2 class="footer-heading mb-4">Follow Us</h2>
+                <a href="#about-section" class="smoothscroll pl-0 pr-3   bg-info text-white" ><span style="padding-left: 15px;" class="icon-facebook"></span></a>
+                <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-twitter"></span></a>
+                <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-instagram"></span></a>
+                <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-linkedin"></span></a>
             </div>
           </div>
-          <div class="row pt-5 mt-5 text-center">
-            <div class="col-md-12">
-              <div class="border-top pt-5">
+          <div class="container text-center">
+            <div class="border-top">
                 <img src="./images/logo_white.png" alt="">
                 <p class="copyright">
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               &copy;រក្សា​សិទ្ធិ​គ្រប់​យ៉ាង​ដោយ​ Knongsrok ឆ្នាំ​ <script>document.write(new Date().getFullYear());</script>© <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="#" target="_blank" >Neuy Mich</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               </p>
-              </div>
             </div>
 
           </div>

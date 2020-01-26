@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <?php require_once('./head.php'); ?>
-    <style>        
+    <style>
         h4{
             font-family: 'Moul';
             font-size: 20px;
         }
         div.icon-date{
-              font-size: 20px;
+            font-size: 20px;
         }
         #fb-border{
             border-left: 2px solid gray;
@@ -57,7 +57,7 @@
             color: black;
             font-family: 'Battambang', Time New Roman;
         }
-    </style> 
+    </style>
 </head>
 <body  data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
     <?php require_once('navbar.php'); ?>
