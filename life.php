@@ -25,6 +25,7 @@
         p{
             font-family: 'Battambang', Time New Roman;
             font-size: 16px;
+            color: black;
         }
         a{
             color: blue;
