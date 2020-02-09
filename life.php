@@ -114,7 +114,7 @@
                                                     <img src="./images/sport/link/in/in-<?php echo $b; ?>.jpg" alt="Carlos Hathcock រហស្សនាម​”អ្នក​ប្រមាញ់ស្លាបស”ផ្ដាច់​ជីវិតទាហានយៀកកុងក្នុង​សង្គ្រាមវៀតណាមមិន​ចេះតិចដោយ​ប្រើ​ជំនាញ Sniper" class="img-fluid m-auto width-100">
                                                 </a>
                                                 <h6 class="title-medium-dark">
-                                                    <a href="#">Carlos Hathcock រហស្សនាម​”អ្នក​ប្រមាញ់ស្លាបស”ផ្ដាច់​ជីវិតទាហានយៀកកុងក្នុង​សង្គ្រាមវៀតណាមមិន​ចេះតិចដោយ​ប្រើ​ជំនាញ Sniper</a>
+                                                    <a href="./sportlink.php" class="stretched-link">Carlos Hathcock រហស្សនាម​”អ្នក​ប្រមាញ់ស្លាបស”ផ្ដាច់​ជីវិតទាហានយៀកកុងក្នុង​សង្គ្រាមវៀតណាមមិន​ចេះតិចដោយ​ប្រើ​ជំនាញ Sniper</a>
                                                 </h6>
                                         </div>
                                 </div>

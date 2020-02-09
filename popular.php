@@ -34,7 +34,7 @@
                         <img src="./images/popular1/<?php echo $i;?>.jpg" alt="" style="width: 100%;">
                         <i class="far fa-calendar-alt"> 2020-01-13</i>
                         <h6 class="list-komsan1-h6">
-                            <a class="stretched-link" href="#"><?php echo $i;?>មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
+                            <a class="stretched-link" href="sportlink.php"><?php echo $i;?>មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
                         </h6>
                     </div>
                     <?php
@@ -44,7 +44,7 @@
                             <img src="./images/popular1/<?php echo $i;?>.png" alt="" style="width: 100%;">
                             <i class="far fa-calendar-alt"> 2020-01-13</i>
                             <h6 class="list-komsan1-h6">
-                                <a class="stretched-link" href="#"><?php echo $i;?>មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
+                                <a class="stretched-link" href="sportlik.php"><?php echo $i;?>មានធាងដូង ​ធាងត្នោតលក់ទេ? មានអ្នកប្រមូលទិញទាំងអស់ហ៊ានឱ្យក្នុងតម្លៃខ្ពស់ ដើម្បីនាំចេញទៅជប៉ុន</a>
                             </h6>
                         </div>                     
                         <?php

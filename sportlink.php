@@ -6,9 +6,11 @@
         h4{
             font-family: 'Moul';
             font-size: 20px;
+            color: black;
         }
         div.icon-date{
             font-size: 20px;
+            color: black;
         }
         #fb-border{
             border-left: 2px solid gray;
@@ -110,106 +112,18 @@
                             <span style="border: 10px solid red;border-right: 8px solid transparent;"></span>                          
                     </div>
                     <div class="row" style="margin-top: 20px;">
+                            <?php for($j=1;$j<=10;$j++){ ?>
                                 <div class="col-lg-6 col-md-4 col-sm-6 col-6">
                                         <div class="mt-25 position-relative">
                                                 <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-1.jpg" alt="Carlos Hathcock រហស្សនាម​”អ្នក​ប្រមាញ់ស្លាបស”ផ្ដាច់​ជីវិតទាហានយៀកកុងក្នុង​សង្គ្រាមវៀតណាមមិន​ចេះតិចដោយ​ប្រើ​ជំនាញ Sniper" class="img-fluid m-auto width-100">
+                                                    <img src="./images/sport/link/in/in-<?php echo $j; ?>.jpg" alt="Carlos Hathcock រហស្សនាម​”អ្នក​ប្រមាញ់ស្លាបស”ផ្ដាច់​ជីវិតទាហានយៀកកុងក្នុង​សង្គ្រាមវៀតណាមមិន​ចេះតិចដោយ​ប្រើ​ជំនាញ Sniper" class="img-fluid m-auto width-100">
                                                 </a>
                                                 <h6 class="title-medium-dark">
-                                                    <a href="#">Carlos Hathcock រហស្សនាម​”អ្នក​ប្រមាញ់ស្លាបស”ផ្ដាច់​ជីវិតទាហានយៀកកុងក្នុង​សង្គ្រាមវៀតណាមមិន​ចេះតិចដោយ​ប្រើ​ជំនាញ Sniper</a>
+                                                    <a href="sportlink.php" class="stretched-link">Carlos Hathcock រហស្សនាម​”អ្នក​ប្រមាញ់ស្លាបស”ផ្ដាច់​ជីវិតទាហានយៀកកុងក្នុង​សង្គ្រាមវៀតណាមមិន​ចេះតិចដោយ​ប្រើ​ជំនាញ Sniper</a>
                                                 </h6>
                                         </div>
 				                </div>
-                               <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-2.jpeg" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">Teatime ត្រៀមសម្ភោធសាខាថ្មី និងបង្កើតផ្លាកយីហ៊ោBrand ថ្មី Eatmore ថ្ងៃទី 20 មករា 2020ខាងមុខនេះ</a>
-                                                </h6>
-                                        </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-3.png" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">បើលុយមិនសំខាន់ទេ ចុះហេតុអ្វីយើងត្រូវតែមានលុយឱ្យច្រើន?</a>
-                                                </h6>
-                                        </div>
-				                </div>
-                               <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-4.jpg" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">ភ្ញាក់ផ្អើលមែន ដើររកឬស្សីបានជួបរូបចម្លាក់សត្វ ម្ករ ឬ មករ មួយដោយចៃដន្យនៅកណ្តាលព្រៃភ្នំគូលេនមិនដឹងតាំងពីសម័យណាទេ</a>
-                                                </h6>
-                                        </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-5.png" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">អាចត្រួតត្រាលើដៃគូ អាចឱ្យដៃគូខ្លាចយើងបាន មិនមែនមានន័យថាយើងខ្លាំងពូកែ ឬឡូយនោះឡើយ តែអាចឱ្យដៃគូគោរព និងឱ្យតម្លៃយើងបាន ទើបជារឿងដែលអស្ចារ្យ</a>
-                                                </h6>
-                                        </div>
-				                </div>
-                               <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-6.jpg" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">ក្បួនរៀបជំនាងផ្ទះដំឡើងរាសីមហានគរ ឱ្យត្រូវតាមក្បួនខ្នាតទាំងជំនាងផ្ទះបែបចិន និងបែបខ្មែ</a>
-                                                </h6>
-                                        </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-7.jpg" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">ក្លិបCambodian Top Team​ ប្រកាស​រក​ប្អូនស្រីមរកត​ត្រូវក្មេង​ស្រី​បួននាក់​វាយ​មក​ហាត់​ក្បាច់គុនការពារខ្លួននិង​ពង្រឹងស្មារតីឡើងវិញដោយ​មិនអស់លុយ</a>
-                                                </h6>
-                                        </div>
-				                </div>
-                               <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-8.jpg" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">ជីវប្រវត្តិរបស់វីរនារីក្លាហាន ឌៀប វណ្ណដារ៉ា ដែលបានពលីជីវិតដើម្បីជាតិ រហូតអ្នកនិពន្ធល្បីយកសរសេរចម្រៀង ​ថែមទាំងបានបោះពុម្ពលើក្រដាសប្រាក់ខ្មែរសម័យនោះទៀត (មានវីដេអូចម្រៀង)</a>
-                                                </h6>
-                                        </div>
-                                </div>
-                                <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-9.png" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">កូនខូចជ្រុលខ្លួន ដើរផ្លូវមិនល្អ តើគួរបន្ទោសអ្នកណា? ជាកំហុសរបស់ឪពុកម្ដាយមែនទេ?</a>
-                                                </h6>
-                                        </div>
-				                </div>
-                               <div class="col-lg-6 col-md-4 col-sm-6 col-6">
-                                        <div class="mt-25 position-relative">
-                                                <a href="#" class="mb-10 display-block img-opacity-hover">
-                                                    <img src="./images/sport/link/in/in-2.jpeg" alt="" class="img-fluid m-auto width-100">
-                                                </a>
-                                                <h6 class="title-medium-dark">
-                                                    <a href="#">Teatime ត្រៀមសម្ភោធសាខាថ្មី និងបង្កើតផ្លាកយីហ៊ោBrand ថ្មី Eatmore ថ្ងៃទី 20 មករា 2020ខាងមុខនេះ</a>
-                                                </h6>
-                                        </div>
-                                </div>
+                            <?php } ?>
                       </div> 
                 </div>
             </div>

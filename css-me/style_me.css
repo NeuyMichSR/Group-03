@@ -110,7 +110,9 @@ h6 a:hover{
 } 
 
 /* footer */
-
+/* img.image-profile{
+    border-radius: 50%;
+} */
 ul li a:hover{
     color: red !important;
     transition: all .5s !important;
@@ -118,9 +120,9 @@ ul li a:hover{
 .bg-info{
     padding: 10px ;
 }
-.site-footer ul li {
-    border-bottom: 2px solid red !important;
-}
+/* .site-footer ul li {
+     border-bottom: 2px solid red !important; 
+} */
 footer.site-footer{
     padding: 60px !important;
 }

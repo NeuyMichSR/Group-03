@@ -46,9 +46,9 @@
                                 <li class="has-children">
                                     <a href="#" class="nav-link">សម្រស់និងសុខភាព</a>
                                     <ul class="dropdown arrow-top">
-                                        <li><a href="#" class="nav-link">កុមារ</a></li>
-                                        <li><a href="#" class="nav-link">មនុស្សពេញវ័យ</a></li>
-                                        <li><a href="#" class="nav-link">មនុស្សចាស់</a></li>
+                                        <li><a href="./life.php" class="nav-link">កុមារ</a></li>
+                                        <li><a href="./life.php" class="nav-link">មនុស្សពេញវ័យ</a></li>
+                                        <li><a href="./life.php" class="nav-link">មនុស្សចាស់</a></li>
                     
                       <!--<li class="has-children">
                         <a href="#">កីឡ</a>
@@ -63,22 +63,21 @@
                                 <li class="has-children">
                                     <a href="#" class="nav-link">កីឡា</a>
                                     <ul class="dropdown arrow-top">
-                                        <li><a href="#" class="nav-link">Asian cup</a></li>
-                                        <li><a href="#" class="nav-link">Laligar</a></li>
-                                        <li><a href="sportlink.php" class="nav-link">Premier League</a></li>
+                                        <li><a href="./life.php" class="nav-link">Asian cup</a></li>
+                                        <li><a href="./life.php" class="nav-link">Laligar</a></li>
+                                        <li><a href="./life.php" class="nav-link">Premier League</a></li>
                                     </ul>
                                 </li>
-
-                                <li><a href="#" class="nav-link">អន្តរជាតិ</a></li>
+                                <li><a href="./life.php" class="nav-link">អន្តរជាតិ</a></li>
                                 <li class="has-children">
                                     <a href="#" class="nav-link">គំនិត</a>
                                     <ul class="dropdown arrow-top">
-                                        <li><a href="#" class="nav-link">ជាតិ</a></li>
-                                        <li><a href="#" class="nav-link">អន្តរជាតិ</a></li>
+                                        <li><a href="./life.php" class="nav-link">ជាតិ</a></li>
+                                        <li><a href="./life.php" class="nav-link">អន្តរជាតិ</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#" class="nav-link">ប្លែកៗ</a></li>
-                                <li><a href="#" class="nav-link">Contact</a></li>
+                                <li><a href="./life.php" class="nav-link">ប្លែកៗ</a></li>
+                                <li><a href="./life.php" class="nav-link">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
