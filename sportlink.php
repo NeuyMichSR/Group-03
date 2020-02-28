@@ -123,8 +123,14 @@
                                                 </h6>
                                         </div>
 				                </div>
-                            <?php } ?>
-                      </div> 
+                            <?php } 
+                            
+                            require_once('gift/smart.php');
+                            require_once('gift/aclida.php');
+                            require_once('gift/tiger.php');
+                            ?>
+                            
+                    </div> 
                 </div>
             </div>
         </div>

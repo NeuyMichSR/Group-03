@@ -77,7 +77,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="./life.php" class="nav-link">ប្លែកៗ</a></li>
-                                <li><a href="./life.php" class="nav-link">Contact</a></li>
+                                <li><a href="./about-us.php" class="nav-link">អំពីយើង</a></li>
                             </ul>
                         </nav>
                     </div>

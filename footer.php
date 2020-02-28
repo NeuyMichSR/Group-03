@@ -25,7 +25,7 @@
                 <div class="row" style="margin-bottom: 10px;">
                   <div class="col-6 col-sm-3 col-md-3">
                     <a href="#" target="_blank">
-                      <img src="./images/member-group/myp.jpg" style="border-radius: 50%;" alt="Neuy Mich" width="100%">
+                      <img src="./images/member-group/mich.jpg" style="border-radius: 50%;" alt="Neuy Mich" width="100%">
                       <li class="text-center"><a href="https://www.facebook.com/neuy.mich" target="_blank" class="text-white stretched-link">នឺយ​​ មិច (Neuy Mich)</a></li>
                     </a>
                   </div>
@@ -66,10 +66,10 @@
               <?php } ?>
             </div>
             <h2 class="footer-heading mb-4">Follow Us</h2>
-            <a href="#about-section" class="smoothscroll pl-0 pr-3   bg-info text-white"><span style="padding-left: 15px;" class="icon-facebook"></span></a>
-            <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-twitter"></span></a>
-            <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-instagram"></span></a>
-            <a href="#" class="pl-3 pr-3  bg-info text-white"><span class="icon-linkedin"></span></a>
+            <a href="https://www.facebook.com/neuy.mich" target="_blank" class="smoothscroll pl-0 pr-3   bg-info text-white"><span style="padding-left: 15px;" class="icon-facebook"></span></a>
+            <a href="https://github.com/NeuyMichSR" target="_blank" class="pl-3 pr-3  bg-info text-white"><i class="fab fa-github"></i></a>
+            <a href="https://www.instagram.com/neuy.mich/?hl=en" target="_blank" class="pl-3 pr-3  bg-info text-white"><span class="icon-instagram"></span></a>
+            <a href="http://neuymich.epizy.com/" target="_blank" class="pl-3 pr-3  bg-info text-white"><i class="fas fa-globe"></i></a>
           </div>
         </div>
         <div class="container text-center">

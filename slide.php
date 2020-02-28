@@ -11,7 +11,7 @@
                                     <div class="carousel-item">                                
                                         <img src="./images/slide/slide<?php echo $x;?>.jpg" alt="New York" style="width: 100%;">
                                         <div class="carousel-caption">
-                                            <a href="#" class="stretched-link">
+                                            <a href="sportlink.php" class="stretched-link">
                                                 <h3 id="slider"><?php echo $x;?></h3>
                                                 <p id="slider">ស្អាតខ្លាំងស្ទើរមើលច្រលំស្រុកគេ ស្ទឹងពពកខេត្តកោះកុង ​ទេសភាពស្អាតជាបាតុភូតធម្មជាតិកំពុងតែពេញនិយម</p>
                                             </a>
@@ -23,7 +23,7 @@
                                     <div class="carousel-item active">
                                         <img src="./images/slide/slide<?php echo $x;?>.jpg" alt="Los Angeles" style="width: 100%;">
                                         <div class="carousel-caption">
-                                            <a href="#" class="stretched-link">
+                                            <a href="sportlink.php" class="stretched-link">
                                                 <h3 id="slider"><?php echo $x;?></h3>
                                                 <p id="slider">ស្អាតខ្លាំងស្ទើរមើលច្រលំស្រុកគេ ស្ទឹងពពកខេត្តកោះកុង ​ទេសភាពស្អាតជាបាតុភូតធម្មជាតិកំពុងតែពេញនិយម</p>
                                             </a>

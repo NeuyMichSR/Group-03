@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <title>Knongsork-នៅជាមួយយើងទាំងអស់គ្នា</title>
     <!-- <head> -->
     <?php
         require_once('head.php');

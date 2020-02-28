@@ -12,10 +12,10 @@
 
     <div class="container">
         <div​​ class="row">
-            <div class="col-8">
+            <div class="col-8 border-style">
                 <span class="style-border-left"></span>
                 <a href="#" class="border-header">ពេញនិយម</a>
-                <span class="style-border-right" style=""></span>               
+                <span  class="style-border-right"></span>               
                 <div class="border-bottom1"></div>
             </div>
         </div>        

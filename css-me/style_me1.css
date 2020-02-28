@@ -68,6 +68,30 @@ div.input{
     border: none;
     height: 40px;
 }
+/* border style all */
+div.border-style{
+    border-bottom: 3px solid red !important;    
+    padding-left: 1px;
+    padding-bottom: 5px;
+}
+a.border-header{
+    background-color: red;
+    border: 1px solid red;
+    color: white;
+    padding: 3px 0;
+    font-size: 17px;
+    font-family: 'Battambang',Time New Roman;
+}
+.style-border-left1{
+    border: 10px solid red;
+    border-left: 8px solid transparent;
+}
+
+.style-border-right1{
+    border: 10px solid red;
+    border-right: 8px solid transparent;
+}
+
 /* style border header */
 .font-khmer{
     font-family: 'Battambang',Time New Roman;
@@ -75,27 +99,7 @@ div.input{
 .font-khmer-big{
     font-size: 20px;
 }
-.style-border-left{
-    border: 8px solid red;
-    border-left: 8px solid transparent;
-}
-.style-border-right{
-    border: 8px solid red;
-    border-right: 8px solid transparent;
-}
-a.border-header{
-    border: 5px solid red;
-    background-color: red;
-    color: white;
-    padding: 3px 0;
-    font-size: 17px;
-    font-family: 'Battambang',Time New Roman;
-}
-div.border-bottom1{
-    border-bottom: 2px solid red;
-    width: 100%;
-    padding-bottom: 1px;
-}
+
 .list-komsan1-h6{
     font-family: 'Battambang',cursive;
     color: black;

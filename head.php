@@ -1,10 +1,7 @@
 
-    <title>Knongsork-នៅជាមួយយើងទាំងអស់គ្នា</title>
     <meta c​harset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,700|Oswald:400,700" rel="stylesheet">
-
     <link rel="stylesheet" href="fonts/icomoon/style.css">
     <link rel="shortcut icon" href="./images/favicon-512x512.jpg" />
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -19,4 +16,4 @@
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css-me/style.css">
-    <link rel="stylesheet" href="css-me/style_me.css">
+    <link rel="stylesheet" href="css-me/style_me1.css">

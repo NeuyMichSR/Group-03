@@ -1,12 +1,11 @@
     <br>
     <div class="container">
         <div​​ class="row">
-            <div class="col-12">
-                <span style="border: 8px solid red;border-left: 8px solid transparent;"></span>
+            <div class="col-12 border-style">
+                <span class="style-border-left1"></span>
                 <a href="#" class="border-header">កម្សាន្ត</a>
-                <span style="border: 8px solid red;border-right: 8px solid transparent;"></span>
-                <span style="float: right;"><a href="#" class="font-khmer">អត្ថបទច្រើនទៀត<i class="border fas fa-chevron-right" style="padding: 3px;"></i></a></span>
-                
+                <span class="style-border-right1"></span>
+                <span style="float: right;"><a href="life.php" class="font-khmer">អត្ថបទច្រើនទៀត<i class="border fas fa-chevron-right" style="padding: 3px;"></i></a></span>                
                 <div class="border-bottom1"></div>
             </div>
         </div>        
