@@ -5,7 +5,7 @@
             <a class="list-a-komsan1" href="#">អត្ថបទពេញនិយម</a>
             <span class="border-style-popular-right" style=""></span>
         </div>
-        <div class="col-xl-4 col-lg-7 col-md-6 col-sm-12 list-komsan1-1">    
+        <div class="col-xl-4 col-lg-7 col-md-6 col-sm-12 list-komsan1-1 box-shadow-me">    
             <form action="#" id="search-form" method="get" class="input-group stylish-input-group">
                 <input type="text" name="s" id="s" placeholder="Search" class="form-control" style="height: 40px;">
                 <span class="input-group-addon">
@@ -30,7 +30,7 @@
                     for($i=1;$i<=6;$i++){ 
                         if($i!=5){                                               
                     ?>
-                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6 box-shadow-me">
                         <img src="./images/popular1/<?php echo $i;?>.jpg" alt="" style="width: 100%;">
                         <i class="far fa-calendar-alt"> 2020-01-13</i>
                         <h6 class="list-komsan1-h6">
@@ -40,7 +40,7 @@
                     <?php
                         }else{
                         ?>
-                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6 box-shadow-me">
                             <img src="./images/popular1/<?php echo $i;?>.png" alt="" style="width: 100%;">
                             <i class="far fa-calendar-alt"> 2020-01-13</i>
                             <h6 class="list-komsan1-h6">

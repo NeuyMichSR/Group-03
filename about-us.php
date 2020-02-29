@@ -18,6 +18,11 @@
             -moz-border-radius: 0px 191px 10px 189px;
             -webkit-border-radius: 0px 191px 10px 189px;
             border: 3px dashed #e61235;
+            transition: transform 1.2s linear;
+        }
+        img.profile:hover{
+            transform: rotate(360deg);
+            cursor: pointer;
         }
         div.paragraph p{
             margin-top: 20px;
@@ -26,6 +31,7 @@
             font-size: 18px;
         }
         h1.group3{
+            
             text-transform: uppercase;
             font-family: 'Moul',Times New Roman;
             color: red;
@@ -34,7 +40,7 @@
         h1.group3:hover{
             text-shadow: 0 1px #808d93, -1px 0 #cdd2d5, -1px 2px #808d93, -2px 1px #cdd2d5, -2px 3px #808d93, -3px 2px #cdd2d5, -3px 4px #808d93, -4px 3px #cdd2d5, -4px 5px #808d93, -5px 4px #cdd2d5, -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93, -8px 7px #cdd2d5, 5px 40px 4px rgba(206,89,55,0);
             cursor: pointer;
-            transition: all 0.5s;
+            transition: all 0.5s;            
         }
     </style>
 </head>

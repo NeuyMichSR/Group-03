@@ -85,6 +85,7 @@
                     <p>ទន្ទឹមនឹងនេះដែរក្រុមយក្យនៅ Catalans នេះបានឆ្លើយតបថាខ្សែបម្រើសញ្ជាតិឈីលីរូបនេះមិនត្រូវបានដាក់លក់នៅរដូវរងារនេះទេទោះបីជាក្លឹបជាច្រើនរួមទាំង AC Milan និង Inter Milan កំពុងមានចំណាប់អារម្មណ៍ចង់ចុះហត្ថលេខាលើរូបគេក៏ដោយ។ ហើយ Vidal ខ្លួនឯងផ្ទាល់ក៏មិនចង់ចែកផ្លូវជាមួយក្រុមដែរ។</p>
                     <img src="./images/sport/link/s-2.jpg" alt="" width="100%"><br><br>
                     <p>ជាមួយគ្នានេះដែរបិសាចក្រហមកំពុងតែជួបវិបត្តិខ្សែរបម្រើរបស់ខ្លួនមានការព្រួយបារម្ភដោយ Paul Pogba និង Scott McTominay រងរបួស។ហើយ Pogba ក៏មានការចាប់អារម្មណ៍យ៉ាងខ្លាំងក្នុងការផ្លាស់ទៅកាន់ Real Madrid ផងដែរហើយប្រសិនបើវាកើតឡើងមែននោះ Solskjaer នឹងត្រូវឈឺក្បាលក្នុងការរកកីឡាករមកជំនួសតំបន់បម្រើដ៏សំខាន់មួយនេះទៀតហើយ។</p>
+                    <object width="100%" height="500" data="https://www.youtube.com/v/tgbNymZ7vqY"></object>
                     <div class="propop">
                         <p>ប្រភព: <a href="#">foxsportsasia.com</a></p>
                     </div>
@@ -129,6 +130,7 @@
                             require_once('gift/aclida.php');
                             require_once('gift/tiger.php');
                             ?>
+                            
                             
                     </div> 
                 </div>
